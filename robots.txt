@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zalec.webvisit360.com/sitemap.xml

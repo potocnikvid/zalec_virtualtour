@@ -361,4 +361,4 @@ HTMLText_7DB2E382_7065_343F_41C2_951F708170F1.html = <div style="text-align:left
 ### Description
 
 ### Title
-tour.name = OBČINA ŽALEC-360
+tour.name = Občina Žalec – 360° virtualni sprehod
