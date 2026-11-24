@@ -7,8 +7,8 @@ PopupWebFrameBehaviour_6A8AC970_44CC_E779_41C8_5759000350F9.url = https://www.fa
 PopupWebFrameBehaviour_6AB178C1_44D7_259B_41C4_C29FBA7FD6D6.url = https://www.facebook.com/zalec.si/?locale=sl_SI
 WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d88387.40236208848!2d15.098253052160413!3d46.2706799871607!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47656f75b4fe8347%3A0x3c6ed1c24afe23ce!2zT2LEjWluYSDFvWFsZWM!5e1!3m2!1ssl!2ssi!4v1780820553880!5m2!1ssl!2ssi
 WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d88387.40236208848!2d15.098253052160413!3d46.2706799871607!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47656f75b4fe8347%3A0x3c6ed1c24afe23ce!2zT2LEjWluYSDFvWFsZWM!5e1!3m2!1ssl!2ssi!4v1780820553880!5m2!1ssl!2ssi
-LinkBehaviour_409488FD_5924_FBE8_4180_0303E8233956.source = https://www.obcina-tabor.si/
-LinkBehaviour_403F967A_591C_76E8_41D2_5EEE655E0ED7.source = https://www.obcina-tabor.si/
+LinkBehaviour_409488FD_5924_FBE8_4180_0303E8233956.source = https://www.zalec.si/
+LinkBehaviour_403F967A_591C_76E8_41D2_5EEE655E0ED7.source = https://www.zalec.si/
 
 ## Media
 

@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://zalec.webvisit360.com/</loc></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://zalec.webvisit360.com/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <image:image><image:loc>https://zalec.webvisit360.com/media/panorama_DF875F21_C1F4_65EB_41E2_C1235D2724B3_hd_t.jpg</image:loc></image:image>
+  </url>
 </urlset>
